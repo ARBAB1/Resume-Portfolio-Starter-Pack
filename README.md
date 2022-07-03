@@ -1,6 +1,6 @@
 # Arbab  React JS Resume Starter Pack and Digital Portfolio 💻💻💻
 
-![Arbab React JS Portfolio Starter Pack](resume-screenshot.jepg?raw=true "Arbab React JS Portfolio Stater Pack ")
+![Arbab React JS Portfolio Starter Pack](resume-screenshot.jpeg?raw=true "Arbab React JS Portfolio Stater Pack ")
 
 ### <a href="https://arbabali.com">LIVE DEMO</a>
 
